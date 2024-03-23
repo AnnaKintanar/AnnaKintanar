@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logocolor=006488)
 
- ###  Haw can you contact me: 
+ ### 📫 Haw can you contact me: 
 [![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/anna-kintanar-pilyugina-176087295) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:annakintanarp@gmail.com)
 
 
