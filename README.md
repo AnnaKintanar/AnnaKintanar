@@ -1,4 +1,4 @@
-![Header](https://github.com/AnnaKintanar/AnnaKintanar/blob/main/assets/header.png)
+![Header](https://github.com/AnnaKintanar/AnnaKintanar/blob/main/assets/newheader.png)
 
 ## 👩‍💻 I am a beginner QA Engineer
 
